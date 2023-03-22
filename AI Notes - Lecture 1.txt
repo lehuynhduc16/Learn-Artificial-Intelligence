@@ -1,15 +1,60 @@
+Tổng quan
 
 _____________________ 1 _____________________
 
+TTNT là gì?
+- Là một môn khoa học:
++ Nghiên cứu và mô phỏng quá trình sáng tạo trên máy tính điện tử + Nhằm tạo ra các sản phẩm thông minh có khả năng suy nghĩ khả năng hành động như con người
 
+- Trí tuệ:
++ Các đặc trưng của trí thông minh phản hồi mềm dẻo với các tình huống không lường trước
++ Nhận thức được một cách tương đối tầm quan trọng của thông tin
++ Tìm thấy sự giống và khác giữa các sự vật
++ Sinh ra ý tưởng mới lạ từ khái niệm cũ
+
+- Có thể định nghĩa trí tuệ như các khả năng:
++ Học và hiểu
++ Giải quyết vấn đề
++ Ra quyết định thích hợp
+
+- Trí tuệ nhân tạo có khả năng:
++ Suy nghĩ như con người
++ Suy nghĩ hợp lý
++ Hành động một cách hợp lý
 
 _____________________ 2 _____________________
 
+- Các nội dung cơ bản:
++ Thu nhận thông tin qua giác quan: mắt, tai, tay
 
++ Biểu diễn thông tin
+Các loại thông tin: data, database -> metadata -> thông tin -> tri thức
+	• Dữ liệu thường là số mô tả sự kiện hiện tượng cụ thể
+	• Thông tin:
+	• Trí thức
+
++ Xử lý thông tin bán cầu đại não:
+	• Não trái: Các hoạt động xử lý theo thuật giải: tính toán, tìm kiếm, ra quyết định, suy nghĩ
+	• Não phải: Các hoạt động xử lý phi thuật giải: xử lý thông tin mờ, mẹo
+
++ Học data -> tri thức, tri thức -> tri thức mới
+
++ Bộ não = Mạng nơ ron: nhớ, xử lý
+
++ Mô phỏng
+	• Quá trình tất định -> thuật giải
+	• Quá trình ngẫu nhiên -> di truyền trên xác suất
+	• Quá trình hỗn độn -> fractal
+
++ Công cụ: hardware, software: ngôn ngữ lập trình Lips, Prolog
 
 _____________________ 3 _____________________
 
-
+- Các nghiên cứu cơ bản:
++ Mô hình hóa trên máy tính
++ Giao tiếp người máy
++ Chế tạo máy tính thế hệ mới
++ Chế tạo người máy tính thông minh
 
 _____________________ 4 _____________________
 
